@@ -1,0 +1,14 @@
+utils
+ipython
+ipykernel
+ipywidgets
+
+pandas
+xgboost
+scikit-learn
+tensorflow
+catboost
+lightgbm
+plotly
+nbformat
+optuna
