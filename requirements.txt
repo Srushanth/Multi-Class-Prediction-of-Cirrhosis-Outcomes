@@ -12,3 +12,6 @@ lightgbm
 plotly
 nbformat
 optuna
+optuna-dashboard
+optuna-fast-fanova
+gunicorn
